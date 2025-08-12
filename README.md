@@ -26,8 +26,8 @@ The **Breast Cancer Wisconsin (Diagnostic) dataset** is a widely used multivaria
 * **Features**: The dataset includes **30 numerical features** that describe various characteristics of the cell nuclei.These features are derived from **10 core measurements**, with each measurement reported as a mean, standard error, and "worst" (largest) value. The 10 core characteristics are:
     * Radius 
     * Texture 
-    * [cite_start]Perimeter
-    * [cite_start]Area 
+    * Perimeter
+    * Area 
     * Smoothness 
     * Compactness
     * Concavity 
